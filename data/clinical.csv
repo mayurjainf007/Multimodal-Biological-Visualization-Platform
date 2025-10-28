@@ -1,0 +1,11 @@
+sample_id,diagnosis,age,tumor_stage_numeric,survival_months
+S01,Cancer,62,3,24
+S02,Cancer,55,2,30
+S03,Cancer,70,4,12
+S04,Cancer,48,2,40
+S05,Cancer,59,3,20
+S06,Control,40,0,60
+S07,Control,52,0,55
+S08,Control,61,0,58
+S09,Control,45,0,62
+S10,Control,67,0,70
