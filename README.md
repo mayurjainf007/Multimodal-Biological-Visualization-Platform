@@ -1,4 +1,3 @@
-[![CI](https://img.shields.io/github/actions/workflow/status/OWNER/REPO/ci.yml?branch=main)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 [![Docker](https://img.shields.io/badge/docker-ready-brightgreen)](#)
 
@@ -26,7 +25,3 @@ Set `DATA_SOURCE=snowflake` and `SNOWFLAKE_*` envs. See `utils/snowflake_connect
 docker build -t multimodal-bio-viz -f docker/Dockerfile .
 docker run -p 8050:8050 --env DATA_SOURCE=local multimodal-bio-viz
 ```
-
-
-## Screenshots
-![App Screenshot](docs/screenshots/screenshot.png)
